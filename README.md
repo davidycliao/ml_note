@@ -2,23 +2,23 @@
 
 The repo stores codes and notes for machine learning pipeline in sklearn.
 
-## Classification 
+### Classification 
 - [Binary]()
 - [Multiple Classification]()
 - [Hyperparameter Tuning with Grid Search in Classification]()
 
-## Clustering 
+### Clustering 
 - [Simple Kmean Clustering]()
 - [Multiple Kmean Clustering]()
 - [Hyperparameter Tuning with Grid Search Clustering]()
 
-## Regression 
+### Regression 
 - [Regression with Numeric Data]()
 - [Regression with Categorical Data]()
 - [Multiple Regression with Categorical Data ]()
 - [Hyperparameter Tuning with Grid Search Clustering in Regression]()
 
-## Reducing Dimensions
+### Reducing Dimensions
 - [PCA]()
 - [Linear Discrimininat Analysis]()
 - [Factor Analysis]()
