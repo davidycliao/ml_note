@@ -18,7 +18,7 @@ The repo stores codes and notes for machine learning pipeline in sklearn.
 - [Multiple Regression with Categorical Data ](https://github.com/yl17124/ml_note/blob/main/Regression/04-MultipleRegressionModels_AutomobileMpg.ipynb)
 - [Hyperparameter Tuning with Grid Search Clustering in Regression](https://github.com/yl17124/ml_note/blob/main/Regression/05-HyperparameterTuningWithGridSearch.ipynb)
 
-### Reducing Dimensions(https://github.com/yl17124/ml_note/tree/main/Reducing%20Dimensions) 
+### [Reducing Dimensions](https://github.com/yl17124/ml_note/tree/main/Reducing%20Dimensions) 
 - [PCA](https://github.com/yl17124/ml_note/blob/main/Reducing%20Dimensions/05_PCA_Regression.ipynb)
 - [Linear Discrimininat Analysis](https://github.com/yl17124/ml_note/blob/main/Reducing%20Dimensions/07_LinearDiscriminantAnalysis.ipynb)
 - [Factor Analysis](https://github.com/yl17124/ml_note/blob/main/Reducing%20Dimensions/08_FactorAnalysis_Classification.ipynb)
