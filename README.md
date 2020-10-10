@@ -4,7 +4,7 @@ The repo stores codes and notes for machine learning pipeline in sklearn.
 
 ### Classification 
 - [Binary](https://github.com/yl17124/ml_note/blob/main/Classification/02-BinaryClassification_LogisticRegression_Titanic.ipynb)
-- [Multiple Classification](https://rawcdn.githack.com/yl17124/ml_note/c26256650a12729923f51dae4c5d28a080090f28/Classification/03-MultipleClassificationModels_Titanic.ipynb)
+- [Multiple Classification](https://github.com/yl17124/ml_note/blob/main/Classification/03-MultipleClassificationModels_Titanic.ipynb)
 - [Hyperparameter Tuning with Grid Search in Classification](https://github.com/yl17124/ml_note/blob/main/Classification/04-HyperparameterTuningWithGridSearch.ipynb)
 
 ### Clustering 
