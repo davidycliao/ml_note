@@ -2,22 +2,24 @@
 
 The repo stores codes and notes for machine learning pipeline in sklearn.
 
-#### scikit-learn Solution 
+<br/><br/>
 
-Reference Codes for CV: 
+
+
+## scikit-learn Solution 
+
+#### Reference Codes for CV & Hyper-parameters from scikit-learn Library: 
 - [3.1.Cross-validation: evaluating estimator performance](https://scikit-learn.org/stable/modules/cross_validation.html#cross-validation)
-
 - [Demonstration of multi-metric evaluation on cross_val_score and GridSearchCV](https://scikit-learn.org/stable/auto_examples/model_selection/plot_multi_metric_evaluation.html#sphx-glr-auto-examples-model-selection-plot-multi-metric-evaluation-py)
-
 - [Receiver Operating Characteristic (ROC) with cross validation](https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc_crossval.html#sphx-glr-auto-examples-model-selection-plot-roc-crossval-py)
+- [Tuning the hyper-parameters of an estimator](https://scikit-learn.org/stable/modules/grid_search.html)
 
+#### Classification:
+- [Binary](https://github.com/yl17124/ml_note/blob/main/scikit-learn/Classification/02-BinaryClassification_LogisticRegression_Titanic.ipynb)
+- [Multiple Classification](https://github.com/yl17124/ml_note/blob/main/scikit-learn/Classification/03-MultipleClassificationModels_Titanic.ipynb)
+- [Hyperparameter Tuning with Grid Search in Classification](https://github.com/yl17124/ml_note/blob/main/scikit-learn/Classification/04-HyperparameterTuningWithGridSearch.ipynb)
 
-#### Classification
-- [Binary](https://github.com/yl17124/ml_note/blob/main/Classification/02-BinaryClassification_LogisticRegression_Titanic.ipynb)
-- [Multiple Classification](https://github.com/yl17124/ml_note/blob/main/Classification/03-MultipleClassificationModels_Titanic.ipynb)
-- [Hyperparameter Tuning with Grid Search in Classification](https://github.com/yl17124/ml_note/blob/main/Classification/04-HyperparameterTuningWithGridSearch.ipynb)
-
-#### [Clustering](https://github.com/yl17124/ml_note/tree/main/Clustering)
+#### Clustering
 - [Simple Kmean Clustering](https://github.com/yl17124/ml_note/blob/main/scikit-learn/Clustering/01-SimpleKMeansClustering_RandomData.ipynb)
 - [Multiple Kmean Clustering](https://github.com/yl17124/ml_note/blob/main/scikit-learn/Clustering/03-MultipleClusteringModels_Iris.ipynb)
 - [Hyperparameter Tuning with Grid Search Clustering](https://github.com/yl17124/ml_note/blob/main/scikit-learn/Clustering/04-HyperparameterTuning_Clustering_DriverDetails.ipynb)
