@@ -1,6 +1,8 @@
-# Machine Learning Pipeline with scikit-learn
+# Machine Learning Pipeline 
 
 The repo stores codes and notes for machine learning pipeline in sklearn.
+
+## scikit-learn Solution
 
 ### [Classification ](https://github.com/yl17124/ml_note/tree/main/Classification)
 - [Binary](https://github.com/yl17124/ml_note/blob/main/Classification/02-BinaryClassification_LogisticRegression_Titanic.ipynb)
@@ -23,3 +25,6 @@ The repo stores codes and notes for machine learning pipeline in sklearn.
 - [Linear Discrimininat Analysis](https://github.com/yl17124/ml_note/blob/main/Reducing%20Dimensions/07_LinearDiscriminantAnalysis.ipynb)
 - [Factor Analysis](https://github.com/yl17124/ml_note/blob/main/Reducing%20Dimensions/08_FactorAnalysis_Classification.ipynb)
 - [Manifold Learning](https://github.com/yl17124/ml_note/blob/main/Reducing%20Dimensions/09_SCurve_ManifoldLearning.ipynb)
+
+
+## Deep Learning models PyTorch
